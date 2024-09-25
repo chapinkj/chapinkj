@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋, I'm Kenny (Dr. Chapin)
 
-<!--
-**chapinkj/chapinkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I solve problems in the life and data sciences ( :microscope: x :chart_with_upwards_trend: ).
 
-Here are some ideas to get you started:
+### Links
+- :globe_with_meridians: <a href="https://kennychapin.com">Personal Website</a>
+- 📄 <a href="https://docs.google.com/document/d/1_MryrWdKjASe9qSdEAIED3OvQCGeodJ2QN5Azssy_Yc/pub">Curriculum Vitae</a>
+- :book: <a href="https://scholar.google.com/citations?user=nl6d1xcAAAAJ&hl">Google Scholar</a>
+- 📫 <a href="mailto:chapinkj@gmail.com">Email Me</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some tech I use:
+[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,sass,latex,md,bash&theme=light)]("#")
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,fastapi,wordpress&theme=light)]("#")
+
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,mint,windows,powershell,git,github&theme=light)]("#")
+
+[![My Skills](https://skillicons.dev/icons?i=aws,heroku,redis,nginx,postgres,mysql,php&theme=light)]("#")
+
+
+
+
+
+
+
