@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Kenny (Dr. Chapin)
 
-I solve problems in the life and data sciences ( :microscope: x :chart_with_upwards_trend: ).
+I work in the life and data sciences ( :microscope: x :chart_with_upwards_trend: ).
 
 ### Links
 - :globe_with_meridians: <a href="https://kennychapin.com">Personal Website</a>
